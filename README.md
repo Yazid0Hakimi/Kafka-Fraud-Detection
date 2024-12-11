@@ -6,12 +6,12 @@ This project involves detecting suspicious transactions in real-time using Apach
 ## Architecture
 Here is the system design for the project:
 
-![System Design](images\system design.png)
+![System Design](images/systemDesignWhite.png)
 
 ## Logs Example
 Below is an example of how transactions are logged in the terminal. It shows whether a transaction is suspicious or not:
 
-![Log Example](images\image1.png)
+![Log Example](images/image1.png)
 
 ## Features
 - Real-time fraud detection using Kafka Streams
